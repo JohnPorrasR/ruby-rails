@@ -1,7 +1,10 @@
 source 'https://rubygems.org'
 
+gem 'carrierwave'
 gem 'jquery-rails'
 gem 'coffee-rails', '~> 4.1.0'
+gem 'mac_generators'
+gem 'mini_magick'
 gem 'mysql2'
 gem 'puma'
 gem 'rails', '4.2.0'

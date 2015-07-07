@@ -1,2 +1,36 @@
 es:
-  hello: 'Hola mundo'
+  categories:
+    portrait: 'Retratos'
+    landscape: 'Panorama'
+    city_exploration: 'Explorando cuidad'
+    nature: 'Naturaleza'
+    animals: 'Animales'
+
+  images:
+    index:
+      title: 'Imagenes'
+      new_link: 'Nueva imagen'
+
+    new:
+      title: 'Nueva %{model}'
+      form:
+        error: 'Ha ocurrido un error al intentar crear la %{model}'
+
+    create:
+      created: 'La %{model} ha sido creada'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
