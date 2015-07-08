@@ -23,3 +23,6 @@ group :development, :test do
   gem 'pry-rails'
 end
 
+
+gem 'warden', '~> 1.2.0'
+gem 'bcrypt-ruby'
